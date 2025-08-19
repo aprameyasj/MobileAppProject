@@ -1,0 +1,30 @@
+name: heavenlyhaven2
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  cloud_firestore: ^5.4.4
+  intl: ^0.18.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/home-img-1.jpg
+    - assets/home-img-2.jpg
+    - assets/home-img-3.jpg
+    - assets/about-img-1.jpg
+    - assets/about-img-2.jpg
+    - assets/about-img-3.jpg
+    - assets/gallery-img-2.webp
+    - assets/gallery-img-3.webp
+    - assets/gallery-img-4.webp
+    - assets/gallery-img-5.webp
+    - assets/gallery-img-6.webp

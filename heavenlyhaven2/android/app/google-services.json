@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52161648870",
+    "project_id": "heavenlyhaven2-8940c",
+    "storage_bucket": "heavenlyhaven2-8940c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52161648870:android:fbac385b909d4ec21a8327",
+        "android_client_info": {
+          "package_name": "com.example.heavenlyhaven2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxJu0LiW-2Ds_qvWqro8d1fMiLO5cmn_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
